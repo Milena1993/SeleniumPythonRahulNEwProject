@@ -1,15 +1,9 @@
-SeleniumPythonRahulNEwProject
+SeleniumPythonRahulNEwProject functional testing 
 
-functional testing 
-
-## Follow Along
-
-You can get a copy of all files used in this tutorial by cloning this repository!
-
+## Setup
 ```shell
 git clone https://github.com/Milena1993/SeleniumPythonRahulNEwProject
 ```
-
 Then, make sure to install all the required Python modules using `pip`:
 
 ## Using Python Selenium with Pytest
@@ -17,7 +11,7 @@ Then, make sure to install all the required Python modules using `pip`:
 
 **NOTE**: This step can be skipped if you've cloned the repository and install all Python dependencies.
 
-To run the tests use
+Run tests using: 
 ```shell
  python -m pytest -v tests/test_cases.py
 ```
