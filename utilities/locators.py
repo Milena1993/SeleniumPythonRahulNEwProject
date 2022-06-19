@@ -15,8 +15,7 @@ class Locators:
     remove_button = "//button[@class ='btn btn-danger']"  #By Xpath
     no_item = 'h3 >strong'  #By CSS selector
     country_name = "country" #by ID
-    country_option ="arm"
-    # suggested_overlay = "Armenia" #By link text 
+    country_option ="arm" 
     suggested_overlay = '.suggestions >ul > li >a'   #By CSS selector
     suggested_country ="Armenia" 
     terms_and_confitions_field = "//div[@class='checkbox checkbox-primary']" #By Xpath
