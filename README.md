@@ -26,5 +26,5 @@ Run tests including all the print statments using:
 Run tests in parallel using:
 
 ```shell
-pytest -n 4
+python -m pytest -n 4
 ```
