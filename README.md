@@ -1,10 +1,12 @@
 SeleniumPythonRahulNEwProject functional testing 
 
 ## Setup
+
+Install all the required Python modules using pip:
+
 ```shell
 git clone https://github.com/Milena1993/SeleniumPythonRahulNEwProject
 ```
-Then, make sure to install all the required Python modules using `pip`:
 
 ## Using Python Selenium with Pytest
 ### Install pytest
