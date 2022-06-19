@@ -17,6 +17,7 @@ Then, make sure to install all the required Python modules using `pip`:
 
 **NOTE**: This step can be skipped if you've cloned the repository and install all Python dependencies.
 
+To run the tests use
 ```shell
  python -m pytest -v tests/test_cases.py
 ```
