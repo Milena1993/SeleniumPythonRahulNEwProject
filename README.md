@@ -19,3 +19,12 @@ Run tests using:
 ```shell
  python -m pytest -v tests/test_cases.py
 ```
+Run tests including all the print statments using:
+```shell
+ python -m pytest -s tests/test_cases.py
+```
+Run tests in parallel using:
+
+```shell
+pytest -n 4
+```
