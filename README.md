@@ -2,7 +2,9 @@ SeleniumPythonRahulNEwProject functional testing
 
 ## Setup
 
-Install all the required Python modules using pip:
+Install all the required Python modules using `pip`:
+
+You can get a copy of all files used in this tutorial by cloning this repository!
 
 ```shell
 git clone https://github.com/Milena1993/SeleniumPythonRahulNEwProject
